@@ -1,0 +1,16 @@
+Tactical: Missile Swarm
+Fire a swarm of mini-rockets that damage and distract enemies.
+
+
+
+
+
+Passive: VTOL Jets
+Use jetpack fuel to fly. Fuel is limited but refills over time.
+
+
+
+
+
+Ultimate: Skyward Dive
+Launch into the air and sky dive. Allies can hook into take-off systems to come with you.

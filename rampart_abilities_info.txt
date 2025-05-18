@@ -1,0 +1,17 @@
+Tactical: Amped Cover
+Build a crouch-cover wall which deploys a full-cover amped wall that blocks incoming shots and makes 
+outgoing shots more powerful.
+
+
+
+
+
+Passive: Modded Loader
+Increase your magazine capacity and reload faster when using LGMs and the Minigun.
+
+
+
+
+
+Ultimate: Emplaced Minigun “Sheila”
+Place a mounted gun with high ammo capacity that anyone can use. The Minigun has a long reload time.

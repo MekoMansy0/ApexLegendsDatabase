@@ -1,0 +1,16 @@
+Tactical: Knuckle Cluster
+Launch a cluster bomb that continuously sends out airburst explosives on impact.
+
+
+
+
+
+Passive: Grenadier
+Stack an extra grenade per inventory slot and fire grenades faster, farther, and more accurately.
+
+
+
+
+
+Ultimate: The Motherlode
+Launch a bombardment that encircles a target area in a wall of flame.

@@ -1,0 +1,16 @@
+Tactical: Dome of Protection
+Create a dome shield that blocks attacks.
+
+
+
+
+
+Passive: Gun Shield
+Aiming down sights deploys a gun shield that blocks incoming fire.
+
+
+
+
+
+Ultimate: Defensive Bombardment
+Call in a concentrated mortar strike on a marked position.

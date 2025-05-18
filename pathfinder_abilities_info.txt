@@ -1,0 +1,16 @@
+Tactical: Grappling Hook
+Quickly grapple to out-of-reach places.
+
+
+
+
+
+Passive: Insider Knowledge
+Scan a survey beacon to find the Ring’s next location.
+
+
+
+
+
+Ultimate: Zipline Gun
+Create a zipline which everyone can use.

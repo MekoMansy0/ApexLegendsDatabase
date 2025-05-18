@@ -1,0 +1,17 @@
+Tactical Ability: Piercing Spikes
+Throw out a patch of ferrofluid which turns into spikes when enemies are near. Catalyst is immune 
+to enemy spikes.
+
+
+
+
+Passive Ability: Barricade
+Reinforce doors to keep enemies out. Spaces where doors have been destroyed can also be reinforced.
+
+
+
+
+
+Ultimate Ability: Dark Veil
+Raise a permeable wall of ferrofluid. Enemies who walk through it will be temporarily slowed down 
+and blinded.

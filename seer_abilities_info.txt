@@ -1,0 +1,17 @@
+Focus of Attention
+Summon micro-drones to emit a delayed blast that goes through walls to reveal enemies.
+
+
+
+
+
+Passive: Heart Seeker
+Hear and visualize the heartbeats of nearby enemies when you’re aiming down sights.
+
+
+
+
+
+Ultimate: Exhibit
+Create a sphere of micro-drones that shows the locations of enemies moving quickly or firing their 
+weapons inside it.

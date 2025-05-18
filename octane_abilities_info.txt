@@ -1,0 +1,16 @@
+Tactical: Stim
+Move 30% faster for six seconds. Stim costs health to use.
+
+
+
+
+
+Passive: Swift Mend
+Automatically restore your health over time.
+
+
+
+
+
+Ultimate: Launch Pad
+Deploy a jump pad that catapults your teammates through the air.

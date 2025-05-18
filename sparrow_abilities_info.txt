@@ -1,0 +1,18 @@
+Tactical: Tracker Dart
+Shoots a tracker from the gauntlet to reveal enemies who walk within its line of sight. 
+These darts can also activate Survey Beacons from a distance.
+
+
+
+
+Passive: Double Jump
+Allows the character to jump again while in the air. Jumping while climbing will launch Sparrow 
+up the wall. The character can carry additional arrows and explosive arrows for the Bocek.
+
+
+
+
+
+Ultimate: Stinger Bolt
+Shoots a large arrow that anchors where it lands. After charging up, it will shock anyone within 
+its range, causing damage and slowing down opponents it hits.

@@ -1,0 +1,16 @@
+Tactical: D.O.C Heal Drone
+Call your Drone of Compassion (D.O.C) to automatically heal nearby teammates over time.
+
+
+
+
+
+Passive: Combat Medic
+Deploy your D.O.C to revive teammates, leaving you free to move and defend.
+
+
+
+
+
+Ultimate: Care Package
+Call in a drop-pod full of defensive gear.

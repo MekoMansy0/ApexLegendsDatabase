@@ -1,0 +1,16 @@
+Tactical Ability: Radiant Transfer
+Send energy to a teammate, generating temporary shields for them and Conduit when in danger.
+
+
+
+
+
+Passive Ability: Savior’s Speed
+Gain a burst of speed when running to a teammate out of Tactical range.
+
+
+
+
+
+Ultimate Ability: Energy Barricade
+Deploy shield jamming devices which damage and slow down enemies.

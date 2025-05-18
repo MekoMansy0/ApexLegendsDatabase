@@ -1,0 +1,17 @@
+Tactical: Gravity Lift
+Reverse the flow of gravity, lifting players upwards and boosting them outwards when they exit the lift.
+
+
+
+
+
+Passive: Spacewalk
+Increase air control and reduce the impact of falling.
+
+
+
+
+
+Ultimate: Black Hole
+Deploy N.E.W.T, your robotic vacuum companion, to create a micro black hole that pulls players towards 
+it and hits them with a graviton blast at the end.

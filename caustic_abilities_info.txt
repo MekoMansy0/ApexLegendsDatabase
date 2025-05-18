@@ -1,0 +1,15 @@
+Tactical Ability: Nox Gas Trap
+Drop canisters that release deadly Nox gas when shot or triggered by enemies.
+
+
+
+
+Passive Ability: Nox Vision
+See enemies through your gas.
+
+
+
+
+
+Ultimate Ability: Nox Gas Grenade
+Blanket a large area in Nox gas.

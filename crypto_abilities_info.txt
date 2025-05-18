@@ -1,0 +1,17 @@
+Tactical Ability: Surveillance Drone
+Deploy an aerial drone that lets you view the surrounding area from above. If your drone gets destroyed, 
+you have to wait 40 seconds before using another.
+
+
+
+
+Passive Ability: Neurolink
+If your Surveillance Drone finds enemies within 30 meters of your position, they’ll be marked for you 
+and your teammates.
+
+
+
+
+Ultimate Ability: Drone EMP
+Your Surveillance Drone sets off an electromagnetic pulse (EMP) blast that damages shields, slows down 
+enemies, and disables traps.

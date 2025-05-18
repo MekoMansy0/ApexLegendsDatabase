@@ -1,0 +1,17 @@
+Shadow Pounce
+Pounce forward. Hold to charge and go further distances.
+
+
+
+
+
+Passive: Assassin’s Instinct
+Highlight nearby visible enemies who are low on health. You can crouch walk faster and have improved 
+wall climbing.
+
+
+
+
+Ultimate: Forged Shadows
+Create shadows around you that block damage and regenerate over time. Your shadows and tactical are 
+refreshed on knockdowns.

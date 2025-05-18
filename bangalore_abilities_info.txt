@@ -1,0 +1,16 @@
+Tactical Ability: Smoke Launcher
+Fire a smoke canister that explodes into a smoke wall on impact.
+
+
+
+
+
+Passive Ability: Double Time
+Taking fire while sprinting will temporarily make you faster.
+
+
+
+
+
+Ultimate Ability: Rolling Thunder
+Call in an artillery strike that slowly creeps over the landscape.

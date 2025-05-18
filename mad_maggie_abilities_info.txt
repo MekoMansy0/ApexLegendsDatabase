@@ -1,0 +1,16 @@
+Tactical: Riot Drill
+Fire a drill that burns enemies through obstacles.
+
+
+
+
+
+Passive: Warlord’s Ire
+Temporarily highlight enemies you’ve damaged and move faster with a shotgun.
+
+
+
+
+
+Ultimate: Wrecking Ball
+Throw a ball that releases speed-boosting pads and detonates near enemies.

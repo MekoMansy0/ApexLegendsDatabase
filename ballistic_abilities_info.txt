@@ -1,0 +1,17 @@
+Tactical Ability: Whistler
+Shoot a projectile that heats up an enemy’s gun as they shoot, overheating the weapon and causing 
+damage.
+
+
+
+
+Passive Ability: Sling
+Store a third weapon in the Sling, which you can access via inventory or Character Utility Action.
+
+
+
+
+
+Ultimate Ability: Tempest
+Give nearby teammates faster reloads, faster armed movement speed, and infinite ammo while Tempest 
+is active. Ballistic’s Sling weapon will also be equipped and upgraded to gold.

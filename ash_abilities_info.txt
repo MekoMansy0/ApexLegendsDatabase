@@ -1,0 +1,16 @@
+Tactical Ability: Arc Snare
+Throw a spinning snare that damages and tethers the first enemy who gets close. 
+
+
+
+
+
+Passive Ability: Marked For Death
+Ash’s map will show where recent deathboxes are and mark surviving attackers.
+
+
+
+
+
+Ultimate Ability: Phase Breach
+Create a one-way portal to a targeted location.

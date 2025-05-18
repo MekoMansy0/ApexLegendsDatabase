@@ -1,0 +1,16 @@
+Tactical: Mobile Shield
+Throw a controllable drone that creates a moving energy shield.
+
+
+
+
+
+Passive: Retrieve the Wounded
+Protect downed allies as you revive them by dragging them with your Revive Shield.
+
+
+
+
+
+Ultimate: Castle Wall
+Leap to an ally or target area and slam down, creating a fortified stronghold.
