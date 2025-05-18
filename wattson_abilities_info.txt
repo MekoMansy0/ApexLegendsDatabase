@@ -1,0 +1,16 @@
+Tactical: Perimeter Security
+Connect nodes to create electrified fences that damage and slow down enemies.
+
+
+
+
+
+Passive: Spark of Genius
+Ultimate Accelerants fully charge your ultimate ability.
+
+
+
+
+
+Ultimate: Interception Pylon
+Place an electrified pylon that destroys incoming ordnance and repairs damaged shields.
